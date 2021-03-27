@@ -1,6 +1,8 @@
 #i3 gaps solarized rice setup
 
 #Installing programs
+emerge --pretend --verbose x11-base/xorg-drivers
+emerge --ask x11-base/xorg-server
 emerge --ask media-video/mpv
 emerge --ask net-misc/youtube-dl
 sudo curl -L "https://raw.githubusercontent.com/pystardust/ytfzf/master/ytfzf" -o /usr/bin/ytfzf && sudo chmod +x /usr/bin/ytfzf
