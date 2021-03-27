@@ -1,0 +1,44 @@
+ 
+New instance of bashtop version: 0.9.25 Pid: 7136
+ 
+New instance of bashtop version: 0.9.25 Pid: 2099
+ 
+New instance of bashtop version: 0.9.25 Pid: 8419
+/usr/bin/bashtop: line 4806: ${pycoproc[1]}: ambiguous redirect
+/usr/bin/bashtop: line 3405: pid_Pid:_graph: invalid variable name
+ 
+New instance of bashtop version: 0.9.25 Pid: 111381
+ 
+New instance of bashtop version: 0.9.25 Pid: 171499
+ 
+New instance of bashtop version: 0.9.25 Pid: 177082
+ 
+New instance of bashtop version: 0.9.25 Pid: 1048293
+ 
+New instance of bashtop version: 0.9.25 Pid: 9955
+ 
+New instance of bashtop version: 0.9.25 Pid: 37354
+ 
+New instance of bashtop version: 0.9.25 Pid: 1236
+ 
+New instance of bashtop version: 0.9.25 Pid: 3123
+ 
+New instance of bashtop version: 0.9.25 Pid: 21987
+ 
+New instance of bashtop version: 0.9.25 Pid: 24167
+ 
+New instance of bashtop version: 0.9.25 Pid: 37657
+ 
+New instance of bashtop version: 0.9.25 Pid: 114992
+ 
+New instance of bashtop version: 0.9.25 Pid: 118754
+/usr/bin/bashtop: line 4806: ${pycoproc[1]}: ambiguous redirect
+ 
+New instance of bashtop version: 0.9.25 Pid: 177398
+ 
+New instance of bashtop version: 0.9.25 Pid: 329662
+/usr/bin/bashtop: line 3405: pid_acpitz:_graph: invalid variable name
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+ 
+New instance of bashtop version: 0.9.25 Pid: 415351
