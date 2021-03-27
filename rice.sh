@@ -18,6 +18,7 @@ eselect repository enable guru
 emerge --ask games-action/minecraft-launcher
 emrege --ask media-fonts/fontawesome
 emerge --ask media-sound/cmus
+emerge --ask app-admin/doas
 emerge --ask app-shells/zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
